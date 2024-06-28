@@ -21,7 +21,7 @@ body {
   height: 100svh;
   height: auto;
   color: #fff;
-  background: #000;
+  background: #131722;
   overflow: hidden;
 }
 .container-time {
@@ -59,7 +59,7 @@ body {
   border-right: 1px solid #888;
   font-size: 1.4vw;
   font-weight: 500;
-  background: #323232;
+  background: #131722;
   -webkit-transition: all .2s linear;
   -moz-transition: all .2s linear;
   transition: all .2s linear;
@@ -81,7 +81,7 @@ body {
   font-weight: 400;
   letter-spacing: 0.5px;
   padding: 10px 3vw;
-  background: #000;
+  background: #131722;
 }
 .container-content {
   width: 100vw;
@@ -96,7 +96,7 @@ body {
   -moz-justify-content: center;
   justify-content: center;
   padding: 0 0 70px 0;
-  background: #000;
+  background: #131722;
   overflow: auto;
 }
 .container-player {
@@ -109,7 +109,7 @@ body {
   -webkit-justify-content: center;
   -moz-justify-content: center;
   justify-content: center;
-  background: #000;
+  background: #131722;
   overflow: hidden;
 }
 .container-player .player {
@@ -140,7 +140,7 @@ body {
   -webkit-border-radius: 20px 0 0 0;
   -moz-border-radius: 20px 0 0 0;
   border-radius: 20px 0 0 0;
-  background: #323232;
+  background: #131722;
   overflow-x: hidden;
   overflow-y: scroll;
 }
@@ -162,7 +162,7 @@ body {
   -webkit-box-shadow: 0 0 0 1.5px #2979FF;
   -moz-box-shadow: 0 0 0 1.5px #2979FF;
   box-shadow: 0 0 0 1.5px #2979FF;
-  background: #262626;
+  background:#131722;
   -webkit-transition: all .2s linear;
   -moz-transition: all .2s linear;
   transition: all .2s linear;
