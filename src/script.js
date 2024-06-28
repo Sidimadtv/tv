@@ -23,7 +23,7 @@
            <span target="/channel/media-prima/tv9/index.html" name="TV9"></span>
            <span target="/channel/myfreeview/awani/index.html" name="AWANI"></span>
            <span target="/channel/myfreeview/tv-ikim/index.html" name="TV IKIM"></span>
-           <span target="/channel/myfreeview/tvs/index.html" name="TVS"></span>
+           <span target="https://sidimadtv.free.nf/tv/premium/SSC/ssc-1" name="TVS"></span>
          </div>
        </div>
     `);
