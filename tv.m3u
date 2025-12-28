@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" , MBC IRAQ
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/manifest/video/1080p2400kbps/video.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+
+
 
 #EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" , MBC 
 https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
