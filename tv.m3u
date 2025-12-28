@@ -25,7 +25,7 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dv
 #EXTINF:-1  tvg-logo="https://imam/images/I/61YDuS-81ML.png" , MEDI 1 TV AFRIQUE
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
 
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766907803/ei/O4tQadCtBaq8mLAP_cbt0Q8/ip/196.75.249.152/id/67W6o4ukwSI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666464/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/demuxed/1/maudio/1/bui/AYUSA3AU3YE1u132bLHxaJBEtZuH0mwecvsLaowS0PlnP_GQdZo_DuVNGvoSyOvpMFiybctP1Yg3WfPO/spc/wH4QqwaO8uh9Sgu1tFfzPfh3Xm09MoPg98jQ0TREWv5bcDkCmxYI088vzQPzBQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565682%2C51580968/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgC84YRo2P89nuub2kjTaIAx2ldDLm6MQT5l2KeKkXOOkCIC54vi5z415kbrbxbjRhMeG0vVusVGJ9BzBo66fZ0XMl/file/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://imam/images/I/61YDuS-81ML.png" , 2M
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
