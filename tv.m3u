@@ -1,0 +1,11 @@
+#EXTM3U 
+#EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" , Mbc Iraq
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/manifest/video/1080p2400kbps/video.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://imam/images/I/61YDuS-81ML.png" , Dubai
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
+
+#EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" , Dubai
+https://games1.elahmad.xyz/tv774_www.elahmad.com_lbc/index.m3u8?token=594af52ad494e3a1fc786e4a4d9df0fcc6531b6e-aeff18d0c30d445cc79ff66abf456cab-1766880189-1766878389
