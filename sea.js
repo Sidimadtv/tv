@@ -1,6 +1,4 @@
-<script type="text/javascript">
-  <!--[ Enhanced Authentication JavaScript ]-->
-   
+
      const AUTH_API_URL = atob('aHR0cHM6Ly9zY3JpcHQuZ29vZ2xlLmNvbS9tYWNyb3Mvcy9BS2Z5Y2J6anV5M0lxREtnWFlKTkVXVnBvQkZPMjN2Yzg3TGVRU0hPXzlVNjVoOXhRUG51SVo5U2lqOHh1YzFVdDlYYjRoVE9JdkEvZXhlYw==');
   console.log('🔒 Decoded API URL:', AUTH_API_URL);
   
@@ -663,4 +661,5 @@
           }
         }
       });
-</script>
+
+
