@@ -3,6 +3,11 @@
 #EXTINF:-1  tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/img/smbc/mbc-1-5.png" , j
 https://www.youtube.com/watch?v=G8n3ZMNfNmU
 
+
+#EXTINF:-1  tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/img/smbc/mbc-1-5.png" , شكون غادي يستثمر فمشروعي؟ البرايم 1 : الثلاثاء 20 يناير
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772835860/ei/tP-qaeDgOYD4xN8PqN6BsQQ/ip/105.158.215.183/id/1bc9f764c35f3665/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr1---sn-p5h-gc5y.googlevideo.com/cps/311/met/1772814260%2C/mh/HY/mm/31%2C26/mn/sn-p5h-gc5y%2Csn-hgn7rn7r/ms/au%2Conr/mv/m/mvi/1/pl/24/rms/au%2Cau/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/1016250/bui/AVNa5-y7-MsI3koEByvoiNO-MtVs7_Xe35uWmhPr6sFji3KevkSOBWZzIbexEJxuyl7js5kHVcyyqRMr/spc/6dlaFMXYWyjLzXaEu5cehJIMuSOYjq_dY_5O9xJjn58R9GQ0wj7KoUvki6Kf4tps/vprv/1/go/1/rqh/5/mt/1772813874/fvip/3/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51791334/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAKmruGM5BCz4JD_uTW7cyKLNn_otcsPnf8t1CmQXBMyAAiAHyetFa-RxkJzn79wiIsqeGRamndaZGx57fLY4WCSZxA%3D%3D/lsparams/playback_host%2Ccps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps/lsig/APaTxxMwRAIgD3QBwTVVNAt_ai1HLgWoidvamEcQClsCCPptSiuEDCwCIHhFKBotrPjFHasPPPLW-OImnaMM9yR7y-unc4FDA76F/file/index.m3u8
+
+
 #EXTINF:-1  tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/imgg/mus.png" ,MBC 1 USA 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
 
