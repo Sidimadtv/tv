@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1  tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/img/smbc/mbc-1-5.png" , MBC 
-https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+https://www.youtube.com/watch?v=G8n3ZMNfNmU&t=214s&pp=ygUw2LTZg9mI2YYg2YrYs9iq2KvZhdixINmB2Yog2YXYtNix2YjYudmKIHBsYXlsaXN0
 
 #EXTINF:-1  tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/imgg/mus.png" ,MBC 1 USA 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
