@@ -1,13 +1,10 @@
 #EXTM3U 
 
-
-
 #EXTINF:-1 tvg-id="Ep01" tvg-logo="https://img.youtube.com/vi/G8n3ZMNfNmU/0.jpg",شكون غادي يستثمر فمشروعي 1
 https://www.youtube.com/watch?v=G8n3ZMNfNmU
 
 
 #EXTINF:-1 tvg-id="Ep02" tvg-logo="https://img.youtube.com/vi/urrt5Nyzn-s/0.jpg",شكون غادي يستثمر فمشروعي 2
-
 https://www.youtube.com/watch?v=urrt5Nyzn-s
 
 #EXTINF:-1  tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/img/smbc/mbc-1-5.png" , R....
