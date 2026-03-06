@@ -1,7 +1,11 @@
 #EXTM3U 
 
-#EXTINF:-1  tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/img/smbc/mbc-1-5.png" , j
+#EXTINF:-1  tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/img/smbc/mbc-1-5.png" ,norm
 https://www.youtube.com/watch?v=G8n3ZMNfNmU
+
+
+#EXTINF:-1  tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/img/smbc/mbc-1-5.png" , R....
+https://rr5---sn-4g5edndr.googlevideo.com/videoplayback?expire=1772835855&ei=r_-qafTHM4CBp-oP4MrVaQ&ip=105.158.215.183&id=o-AE2LGdlBQQ8jgWmCVJvi2dRpI3Bn2MwHMqQNR7ggFV8C&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ==&cps=312&rms=au,au&spc=6dlaFPZPF4m6F95YTBnBjBLsE6Y5acFHV85dEEHu1AuskuBt3gW-IFDcQmUH7Eq65V1FBw&svpuc=1&ns=GOM0R5O57YP7888c1at_PzET&sabr=1&rqh=1&keepalive=yes&fexp=51565116,51565681,51791334&c=WEB&n=a1EMrixXLdcx4Q&sparams=expire,ei,ip,id,source,requiressl,xpc,spc,svpuc,ns,sabr,rqh&sig=AHEqNM4wRAIgVtBFMuDiz3zzcUa-LTZbL0xFu2vVP8nGbMUefkU_5MoCID9w1E656jjISZkyaU8HO8u-aGD0rrHz06CgaxOpOhjd&cpn=hVtsoltzbgwCtTM0&cver=2.20260305.01.00&redirect_counter=2&cms_redirect=yes&cmsv=e&met=1772814316,&mh=HY&mm=34&mn=sn-4g5edndr&ms=ltu&mt=1772813821&mv=m&mvi=5&pl=24&lsparams=cps,met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRQIgYmOMbFBpTpGbDFgTkQlMsOBB34z_g0_d5u3-vEj28SYCIQDXWVMeEBtCZ78EHyIj55jxiu6Hr-q8qnOdz5kiHHGCOw==&rn=107&alr=yes
 
 
 #EXTINF:-1  tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/img/smbc/mbc-1-5.png" , شكون غادي يستثمر فمشروعي؟ البرايم 1 : الثلاثاء 20 يناير
